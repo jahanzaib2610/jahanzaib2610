@@ -1,4 +1,4 @@
-<!-- Header111111111111111111111111 -->
+<!-- Header -->
 <div align="center">
   <h1>Hi there, I'm Jahan Zaib 👋</h1>
   <p>MERN Stack Developer | Mobile App Developer</p>
@@ -9,7 +9,7 @@
 
 I'm a passionate full-stack developer specializing in MERN stack and mobile app development. I create robust, scalable applications with clean code and exceptional user experiences.
 
-- 🔭 I'm currently working as a React JS developer at Idea Section.
+- 🔭 I'm currently working on MindSet Medi and other exciting projects
 - 💼 Available for freelance projects on [Upwork](https://www.upwork.com/freelancers/~01ac545359fa9b526b?mp_source=share)
 - 👨‍💻 Check out my work at [devjahanzaib.vercel.app](https://devjahanzaib.vercel.app/)
 - 💬 Ask me about MERN stack, React Native, or full-stack development
@@ -54,11 +54,13 @@ A private repository showcasing my expertise in building sophisticated healthcar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib2610&show_icons=true&theme=dracula" alt="GitHub Stats" />
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanzaib2610/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/jahanzaib2610/output/github-contribution-grid-snake.svg">
-</picture>
+  <!-- GitHub Stats Card with private contributions -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jahanzaib2610&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=stars"/>
+  
+  <!-- Languages Card with private repos -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jahanzaib2610&layout=compact&theme=dracula&hide=html,css&count_private=true"/>
+  
+
 </div>
 
 <!-- Connect Section -->
@@ -78,5 +80,5 @@ A private repository showcasing my expertise in building sophisticated healthcar
 <div align="center">
   <p>Looking for a skilled MERN stack or mobile app developer? Let's connect and discuss your project!</p>
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jahanzaib2610.jahanzaib2610)
+  ![Profile Views](https://komarev.com/ghpvc/?username=jahanzaib2610&color=blueviolet&style=flat-square)
 </div>
