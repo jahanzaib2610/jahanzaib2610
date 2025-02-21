@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs daily
   workflow_dispatch: # Allows manual trigger
-
+permissions:
+  contents: write
 jobs:
   generate:
     runs-on: ubuntu-latest
