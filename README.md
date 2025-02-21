@@ -54,8 +54,9 @@ A private repository showcasing my expertise in building sophisticated healthcar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib2610&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib2610&theme=dracula" alt="GitHub Streak" />
+  <img src="https://jahanzaib2610.vercel.app/api?username=jahanzaib2610&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.vercel.app/?user=jahanzaib2610&theme=dracula" alt="GitHub Streak" />
 </div>
 
 <!-- Connect Section -->
