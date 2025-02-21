@@ -56,9 +56,9 @@ A private repository showcasing my expertise in building sophisticated healthcar
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib2610&show_icons=true&theme=dracula" alt="GitHub Stats" />
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanzaib2610/jahanzaib2610/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/jahanzaib2610/jahanzaib2610/output/github-contribution-grid-snake.svg">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanzaib2610/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jahanzaib2610/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <!-- Connect Section -->
