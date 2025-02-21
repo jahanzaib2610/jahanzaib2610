@@ -37,6 +37,9 @@ I'm a passionate full-stack developer specializing in MERN stack and mobile app 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazonaws&logoColor=white)
+
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -45,11 +48,18 @@ I'm a passionate full-stack developer specializing in MERN stack and mobile app 
 </div>
 
 <!-- Featured Project -->
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### MindSet Medi
-A private repository showcasing my expertise in building sophisticated healthcare applications. While the code is private, I'd be happy to discuss the technical challenges and solutions implemented in this project.
-
+### My Recent Projects 
+<ul>
+  <li>Geo Travels</li>
+  <li>MindSet Medi</li>
+  <li>Slim Club</li>
+  <li>Many More...</li>
+</ul>
+  <strong>**For more details and any queries DM me.**</strong>
+<br/>
+<br/>
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
